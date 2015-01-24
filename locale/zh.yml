@@ -1,0 +1,10 @@
+components:
+    markdown_editor:
+      insert_link:
+        dialog_title: "插入链接"
+        input_label: "链接网站"
+        input_help: "输入网站URL地址及网站标题"
+      insert_image:
+        dialog_title: "插入图片"
+        input_label: "图片URL地址"
+        input_help: "输入图片URL地址，并在博客中显示"

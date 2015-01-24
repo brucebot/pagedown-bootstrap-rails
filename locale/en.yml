@@ -1,0 +1,10 @@
+components:
+    markdown_editor:
+      insert_link:
+        dialog_title: "Insert Link"
+        input_label: "Link URL"
+        input_help: "Insert URL and optional title"
+      insert_image:
+        dialog_title: "Insert image"
+        input_label: "Image URL"
+        input_help: "Insert image url to display in post"
